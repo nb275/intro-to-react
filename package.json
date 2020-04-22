@@ -1,5 +1,6 @@
 {
   "name": "my-app",
+  "homepage": "https://github.com/nb275/intro-to-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

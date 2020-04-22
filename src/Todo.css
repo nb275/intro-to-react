@@ -1,4 +1,7 @@
 .struckthrough{
+   text-decoration: none;
+}
+.struckthrough2{
    text-decoration: line-through;
 }
 .textstyling{
