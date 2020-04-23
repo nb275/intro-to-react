@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/intro-to-react/static/css/main.5f361e03.chunk.css",
-    "main.js": "/intro-to-react/static/js/main.a5f1ce26.chunk.js",
-    "main.js.map": "/intro-to-react/static/js/main.a5f1ce26.chunk.js.map",
-    "runtime-main.js": "/intro-to-react/static/js/runtime-main.a72dade2.js",
-    "runtime-main.js.map": "/intro-to-react/static/js/runtime-main.a72dade2.js.map",
-    "static/js/2.2594f893.chunk.js": "/intro-to-react/static/js/2.2594f893.chunk.js",
-    "static/js/2.2594f893.chunk.js.map": "/intro-to-react/static/js/2.2594f893.chunk.js.map",
-    "index.html": "/intro-to-react/index.html",
-    "precache-manifest.b9908fe1aa0df6b4251959209c9f0799.js": "/intro-to-react/precache-manifest.b9908fe1aa0df6b4251959209c9f0799.js",
-    "service-worker.js": "/intro-to-react/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/intro-to-react/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.2594f893.chunk.js.LICENSE.txt": "/intro-to-react/static/js/2.2594f893.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/intro-to-react/static/media/logo.5d5d9eef.svg"
+    "main.css": "/nb275/intro-to-react/static/css/main.2d04cc01.chunk.css",
+    "main.js": "/nb275/intro-to-react/static/js/main.b2d63db4.chunk.js",
+    "main.js.map": "/nb275/intro-to-react/static/js/main.b2d63db4.chunk.js.map",
+    "runtime-main.js": "/nb275/intro-to-react/static/js/runtime-main.90f62c99.js",
+    "runtime-main.js.map": "/nb275/intro-to-react/static/js/runtime-main.90f62c99.js.map",
+    "static/js/2.bcd90319.chunk.js": "/nb275/intro-to-react/static/js/2.bcd90319.chunk.js",
+    "static/js/2.bcd90319.chunk.js.map": "/nb275/intro-to-react/static/js/2.bcd90319.chunk.js.map",
+    "index.html": "/nb275/intro-to-react/index.html",
+    "precache-manifest.64fad252b814d7fc6c5041ef97d1b718.js": "/nb275/intro-to-react/precache-manifest.64fad252b814d7fc6c5041ef97d1b718.js",
+    "service-worker.js": "/nb275/intro-to-react/service-worker.js",
+    "static/css/main.2d04cc01.chunk.css.map": "/nb275/intro-to-react/static/css/main.2d04cc01.chunk.css.map",
+    "static/js/2.bcd90319.chunk.js.LICENSE.txt": "/nb275/intro-to-react/static/js/2.bcd90319.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/nb275/intro-to-react/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a72dade2.js",
-    "static/js/2.2594f893.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.a5f1ce26.chunk.js"
+    "static/js/runtime-main.90f62c99.js",
+    "static/js/2.bcd90319.chunk.js",
+    "static/css/main.2d04cc01.chunk.css",
+    "static/js/main.b2d63db4.chunk.js"
   ]
 }
