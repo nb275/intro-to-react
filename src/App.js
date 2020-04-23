@@ -8,43 +8,9 @@ function App() {
   return (
 
     <div class = "body">
+    hello world
 
-    <div class="text-center">
-    <h1>
-    Nick's Todo List
-    </h1>
-    </div>
-
-    <div id = "listContainer">
-    <div class="row">
-
-
-    <div class="col-sm-4" id="empty">
-    </div>
-
-
-
-    <div class="col-sm-4" id="full">
-
-    <ol id="todoList">
-    <Todo />
-    </ol>
-
-    </div>
-    </div>
-
-
-
-    <div class="row">
-    <div class="col-sm-4" id="empty">
-    </div>
-
-    <div class="col-sm-4" id="notempty">
-    <NewTodo />
-    </div>
-
-    </div>
-    </div>
+    
     </div>
 
 
